@@ -9,4 +9,4 @@ Here I will keep the components that are widely used in creating a website
 * Tailwind CSS
 * JavaScript
 
-[codepen.io](https://codepen.io/abduqahhorovaziz/pen/yLRLxjR)
+Link to codepen: [https://codepen.io/abduqahhorovaziz/pen/yLRLxjR](https://codepen.io/abduqahhorovaziz/pen/yLRLxjR)
